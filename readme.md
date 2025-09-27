@@ -305,6 +305,10 @@ For questions or support, please contact support@playableads.com
 
 [Link to Loom video explaining architecture choices](https://www.loom.com/share/e2fd90be5c2041799d833ceeab0ce302?sid=2e6d92d1-c9c6-492b-91fb-dae3443cd9fd)
 
+## 🎥 API Documentation
+
+[Postman Documentation](https://documenter.getpostman.com/view/29411191/2sB3QDvsZ9)
+
 ---
 
 Built with ❤️ for the Playable Ads SaaS Platform

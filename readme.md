@@ -303,7 +303,7 @@ For questions or support, please contact support@playableads.com
 
 ## 🎥 Demo Video
 
-[Link to Loom video explaining architecture choices]
+[Link to Loom video explaining architecture choices](https://www.loom.com/share/e2fd90be5c2041799d833ceeab0ce302?sid=2e6d92d1-c9c6-492b-91fb-dae3443cd9fd)
 
 ---
 
